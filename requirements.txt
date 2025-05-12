@@ -1,0 +1,15 @@
+requests
+torch 
+peft 
+bitsandbytes
+transformers
+trl
+accelerate 
+sentencepiece 
+wandb
+matploatlib
+random
+dotenv
+numpy
+huggingface_hub
+datasets
